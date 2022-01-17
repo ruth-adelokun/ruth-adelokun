@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruth-adelokun
-- 👀 I’m interested in DataScience and web development
-- 🌱 I’m currently learning python. html and css
+- 👀 I’m interested in Data Science and web development
+- 🌱 I’m currently learning python, html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
